@@ -3,14 +3,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* Full viewport height */
+    height: 100vh; 
     margin: 0;
 }
 
-/* Style the header */
+
 header {
     color: white;
-    font-size: 5vw; /* Responsive font size */
+    font-size: 5vw; 
     font-weight: bold;
     text-align: center;
     display: flex;
